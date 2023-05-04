@@ -1,1 +1,1 @@
-# mmsg-clarissa-casestudy
+# clarissa-casestudy
